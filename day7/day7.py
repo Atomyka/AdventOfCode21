@@ -27,5 +27,3 @@ for t in range(m, n+1):
 
 print("Best position: ", t)
 print("New fuel: ", fuel2)
-
-    
